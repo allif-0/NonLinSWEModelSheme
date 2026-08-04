@@ -3,7 +3,7 @@ The scheme is based on a central difference approximation of spatial derivatives
 
 Name of software: mainNonLinaerShemeSWE
 
-Developers: Vladyslav Khaidurov
+Developers: Vladyslav Khaidurov, Artur Zaporozhets
 
 Contact: allif0111@gmail.com and A.O.Zaporozhets@nas.gov.ua
 
@@ -14,6 +14,3 @@ Program language: MATLAB
 Source code at: https://github.com/allif-0/NonLinSWEModelSheme/blob/main/mainNonLinaerShemeSWE.m
 
 Documentation: Detailed documentation for application installation, testing, and deployment can be found at https://github.com/allif-0/NonLinSWEModelSheme/blob/main/README.md and https://github.com/allif-0/NonLinSWEModelSheme/blob/main/DescriptionSWESheme.pdf
-
-Data required for local installation and use of software is accessed through the cloud. See Data Availability Statement.
-Thank you for considering this journal. We look forward to receiving your submission.
