@@ -9,8 +9,6 @@ Contact: allif0111@gmail.com and A.O.Zaporozhets@nas.gov.ua
 
 Date first available: August 3, 2026
 
-Software required: Docker (all other software is installed within Docker image)
-
 Program language: MATLAB
 
 Source code at: https://github.com/allif-0/NonLinSWEModelSheme/blob/main/mainNonLinaerShemeSWE.m
